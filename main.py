@@ -5,7 +5,7 @@ import time
 def main():
     deleted_folders_count = 0
     deleted_files_count = 0
-    path = "C:\Fahmeeda\Downloads\Videos\Pictures"
+    path = "/Users/anandakumar/Desktop/abcd"
     days = 30
     seconds = time.time() - (days * 24 * 60 * 60)
 
